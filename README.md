@@ -1,8 +1,8 @@
-# 💫 About Me:
+# About Me:
 CS student | ML • Agentic AI • Full-stack
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhinandha K) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhi.k.ajay05@gmail.com) 
 
 # 💻 Tech Stack:
